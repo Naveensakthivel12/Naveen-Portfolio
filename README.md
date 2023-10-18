@@ -1,4 +1,4 @@
-# My Personal Portfolio 👩‍💻
+# My Personal Portfolio 👨‍💻
 
 Welcome to my personal portfolio website! 🚀
 
@@ -14,4 +14,4 @@ I am a passionate and creative with a Deep focus on full stack development. This
 
 ## Visit My Portfolio 🌐
 
-You can check out my portfolio website here: [Portfolio Link]([https://naveensakthivel12.github.io/Naveen-portfolio/]).
+You can check out my portfolio website here: [Portfolio Link](https://naveensakthivel12.github.io/Naveen-portfolio/).
